@@ -1,0 +1,8 @@
+channels==4.0.0
+Django==4.2
+django_model_utils==4.3.1
+djangorestframework==3.14.0
+Pillow==9.2.0
+Pillow==9.5.0
+Pillow==9.5.0
+reportlab==3.6.12
